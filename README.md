@@ -1,0 +1,1 @@
+Writo is a mobile app connecting writers and readers. Writers publish stories, poems, articles easily. Readers discover content via personalized feeds, search by genre, like/comment/follow creators. Features include profiles, notifications, text chat & immersive reading. Built for a vibrant literary community. 
